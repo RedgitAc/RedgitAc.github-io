@@ -1,0 +1,29 @@
+div {
+   width: 500px;
+   height: 100px;
+ 
+   background: #333333;
+ }
+ 
+ #main {
+   color: rgb(63, 13, 156);
+   width: 750px;
+ }
+ 
+ .text-white {
+   color: white;
+ }
+ .alert-warning {
+   background: #684e4e;
+   color: yellow;
+ }
+ .alert {
+   height: 350px;
+   color: gray;
+ }
+ 
+ div {
+   background: rgb(34, 165, 104);
+ }
+ 
+ 
